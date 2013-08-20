@@ -18,16 +18,4 @@ public class MainActivity extends Activity {
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	}
-
-	private boolean ontouche7(){
-		final String trasteeeo = "trasteando git";
-		return false;
-	}
-	private boolean funcionsoloLOCAL(){
-		final String testeo2 = "akakaka";
-		return false;
-	}
-	private boolean functionFran(){
-		return true;
-	}
 }
