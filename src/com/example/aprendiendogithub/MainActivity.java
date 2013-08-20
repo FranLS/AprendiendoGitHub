@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
 	}
 
 	private boolean ontouche7(){
-		final String testeo = "blabla";
+		final String trasteeeo = "trasteando git";
 		return false;
 	}
 	private boolean funcionsoloLOCAL(){
