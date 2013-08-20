@@ -36,5 +36,8 @@ public class MainActivity extends Activity {
 	private boolean ontouche5(){
 		return false;
 	}
+	private boolean ontouche6(){
+		return false;
+	}
 	
 }
