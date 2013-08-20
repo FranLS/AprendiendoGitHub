@@ -18,7 +18,7 @@ public class MainActivity extends Activity {
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	}
-	private boolean ontoucher(){
-		return true;
+	private boolean ontouchedos(){
+		return false;
 	}
 }
