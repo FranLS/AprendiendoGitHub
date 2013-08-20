@@ -18,7 +18,23 @@ public class MainActivity extends Activity {
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	}
-	private boolean ontouchedos(){
+	private boolean ontouche0(){
 		return false;
 	}
+	private boolean ontouche1(){
+		return false;
+	}
+	private boolean ontouche2(){
+		return false;
+	}
+	private boolean ontouche3(){
+		return false;
+	}
+	private boolean ontouche4(){
+		return false;
+	}
+	private boolean ontouche5(){
+		return false;
+	}
+	
 }
