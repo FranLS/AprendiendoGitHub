@@ -37,4 +37,12 @@ public class MainActivity extends Activity {
 		return false;
 	}
 	
+	private boolean ontouche7(){
+		final String testeo = "blabla";
+		return false;
+	}
+	private boolean funcionsoloLOCAL(){
+		final String testeo2 = "akakaka";
+		return false;
+	}
 }
