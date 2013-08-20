@@ -36,5 +36,9 @@ public class MainActivity extends Activity {
 	private boolean ontouche6(){
 		return false;
 	}
+	private boolean ontouche7(){
+		System.out.println("Tengo hambre");
+		return false;
+	}
 	
 }
