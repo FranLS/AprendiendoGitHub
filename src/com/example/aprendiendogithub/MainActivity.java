@@ -18,24 +18,7 @@ public class MainActivity extends Activity {
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	}
-	private boolean ontouche0(){
-		return false;
-	}
-	private boolean ontouche1(){
-		return false;
-	}
-	private boolean ontouche3(){
-		return false;
-	}
-	private boolean ontouche4(){
-		return false;
-	}
-	private boolean ontouche5(){
-		return false;
-	}
-	private boolean ontouche6(){
-		return false;
-	}
+
 	private boolean ontouche7(){
 		final String testeo = "blabla";
 		return false;
@@ -43,5 +26,8 @@ public class MainActivity extends Activity {
 	private boolean funcionsoloLOCAL(){
 		final String testeo2 = "akakaka";
 		return false;
+	}
+	private boolean functionFran(){
+		return true;
 	}
 }
