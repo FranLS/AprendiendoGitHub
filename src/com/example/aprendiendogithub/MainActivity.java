@@ -24,9 +24,6 @@ public class MainActivity extends Activity {
 	private boolean ontouche1(){
 		return false;
 	}
-	private boolean ontouche2(){
-		return false;
-	}
 	private boolean ontouche3(){
 		return false;
 	}
